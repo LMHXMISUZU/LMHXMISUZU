@@ -1,6 +1,8 @@
-<h1>Hi, I'm Luke! <br/><a href="https://github.com/LMHXMISUZU">Programmer</a>, <a href="https://www.linkedin.com/in/luke-harper-048087267/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Luke! <br/><a href="https://github.com/LMHXMISUZU">Programmer</a> & <a href="https://www.linkedin.com/in/luke-harper-048087267/">AI Enthusiast</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
+
+- Data Mining project from my second year of university: https://github.com/LMHXMISUZU/Data-Mining-Assignment_1
 
 <h2> 🤳 Connect with me:</h2>
 
