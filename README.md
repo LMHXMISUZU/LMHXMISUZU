@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- Data Mining project from my second year of university: https://github.com/LMHXMISUZU/Data-Mining-Assignment_1
+- [Data Mining project](https://github.com/LMHXMISUZU/Data-Mining-Assignment_1) from my second year of university.
 
 <h2> 🤳 Connect with me:</h2>
 
